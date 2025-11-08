@@ -184,17 +184,17 @@ Output: Malware family + confidence score
 │    • Batch normalization after each conv layer                   │
 │    • Dropout layers (0.3-0.5) to prevent overfitting             │
 │    • More control, better interpretability                       │
-│                                                                   │
+│                                                                  │
 │ C. EfficientNet (State-of-the-Art)                               │
 │    • Compound scaling of depth/width/resolution                  │
 │    • Best accuracy-to-parameters ratio                           │
 │    • EfficientNet-B0 to B3 recommended                           │
-│                                                                   │
+│                                                                  │
 │ D. Vision Transformer (ViT) - ADVANCED                           │
 │    • Patch-based attention mechanism                             │
 │    • Captures long-range dependencies in binary structure        │
 │    • Requires more data but achieves SOTA results                │
-│                                                                   │
+│                                                                  │
 │ Output: High-dimensional feature vector (512-2048 dimensions)    │
 └─────────────────────────────────────────────────────────────────┘
                               ↓
