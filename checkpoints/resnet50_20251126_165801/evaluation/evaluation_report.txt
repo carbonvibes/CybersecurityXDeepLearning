@@ -1,0 +1,86 @@
+============================================================
+MALWARE CLASSIFICATION EVALUATION REPORT
+============================================================
+
+OVERALL METRICS
+----------------------------------------
+Accuracy:           0.5285 (52.85%)
+Precision (macro):  0.7358
+Precision (weight): 0.8052
+Recall (macro):     0.7742
+Recall (weighted):  0.5285
+F1 (macro):         0.6935
+F1 (weighted):      0.5465
+
+DETAILED CLASSIFICATION REPORT
+----------------------------------------
+                precision    recall  f1-score   support
+
+     Adialer.C       1.00      0.47      0.64        19
+     Agent.FYI       1.00      1.00      1.00        18
+     Allaple.A       1.00      0.13      0.23       443
+     Allaple.L       1.00      0.82      0.90       240
+ Alueron.gen!J       1.00      1.00      1.00        31
+     Autorun.K       0.12      1.00      0.22        17
+       C2LOP.P       0.92      0.48      0.63        23
+   C2LOP.gen!g       0.71      0.97      0.82        30
+Dialplatform.B       1.00      1.00      1.00        28
+     Dontovo.A       1.00      1.00      1.00        25
+      Fakerean       1.00      0.98      0.99        58
+ Instantaccess       0.00      0.00      0.00        66
+    Lolyda.AA1       0.94      0.97      0.96        33
+    Lolyda.AA2       1.00      0.93      0.96        29
+    Lolyda.AA3       1.00      1.00      1.00        19
+     Lolyda.AT       0.96      1.00      0.98        25
+   Malex.gen!J       1.00      0.86      0.92        21
+ Obfuscator.AD       1.00      1.00      1.00        22
+      Rbot!gen       0.45      1.00      0.62        25
+    Skintrim.N       0.03      1.00      0.05        12
+ Swizzor.gen!E       0.00      0.00      0.00        20
+ Swizzor.gen!I       0.32      0.76      0.45        21
+         VB.AT       0.95      0.98      0.97        62
+    Wintrim.BX       1.00      1.00      1.00        16
+       Yuner.A       0.00      0.00      0.00       120
+
+      accuracy                           0.53      1423
+     macro avg       0.74      0.77      0.69      1423
+  weighted avg       0.81      0.53      0.55      1423
+
+ROC-AUC SCORES
+----------------------------------------
+  Adialer.C           : 0.9995
+  Agent.FYI           : 1.0000
+  Allaple.A           : 0.9994
+  Allaple.L           : 0.9943
+  Alueron.gen!J       : 1.0000
+  Autorun.K           : 1.0000
+  C2LOP.P             : 0.9980
+  C2LOP.gen!g         : 0.9993
+  Dialplatform.B      : 1.0000
+  Dontovo.A           : 1.0000
+  Fakerean            : 0.9892
+  Instantaccess       : 0.9941
+  Lolyda.AA1          : 0.9977
+  Lolyda.AA2          : 0.9965
+  Lolyda.AA3          : 1.0000
+  Lolyda.AT           : 0.9997
+  Malex.gen!J         : 0.9815
+  Obfuscator.AD       : 1.0000
+  Rbot!gen            : 0.9994
+  Skintrim.N          : 1.0000
+  Swizzor.gen!E       : 0.9958
+  Swizzor.gen!I       : 0.9271
+  VB.AT               : 0.9999
+  Wintrim.BX          : 1.0000
+  Yuner.A             : 1.0000
+  Macro Average       : 0.9949
+
+CLASSES WITH LOWEST F1 SCORE
+----------------------------------------
+  Instantaccess       : F1=0.000, Recall=0.000, Support=66
+  Swizzor.gen!E       : F1=0.000, Recall=0.000, Support=20
+  Yuner.A             : F1=0.000, Recall=0.000, Support=120
+  Skintrim.N          : F1=0.049, Recall=1.000, Support=12
+  Autorun.K           : F1=0.221, Recall=1.000, Support=17
+
+============================================================

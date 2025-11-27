@@ -1,0 +1,162 @@
+[
+  {
+    "sample_idx": 390,
+    "true_label": "Lolyda.AA2",
+    "predicted_label": "Lolyda.AA1",
+    "confidence": 0.9975577592849731,
+    "true_prob": 0.0013939763884991407,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Lolyda.AA2/005699c63cb71815989f19f95c168921.png"
+  },
+  {
+    "sample_idx": 804,
+    "true_label": "Lolyda.AA2",
+    "predicted_label": "Lolyda.AA1",
+    "confidence": 0.9928877949714661,
+    "true_prob": 0.0031987049151211977,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Lolyda.AA2/0095e681499a14f1fc6bac33264a569d.png"
+  },
+  {
+    "sample_idx": 1264,
+    "true_label": "C2LOP.gen!g",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.982396125793457,
+    "true_prob": 0.01143135316669941,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/C2LOP.gen!g/04c7cfce2c48559894893c133c50486d.png"
+  },
+  {
+    "sample_idx": 405,
+    "true_label": "Swizzor.gen!I",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.9687230587005615,
+    "true_prob": 0.030099639669060707,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!I/00cbc8a9aceed969ee62801be4b2c4ee.png"
+  },
+  {
+    "sample_idx": 546,
+    "true_label": "C2LOP.gen!g",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.9434129595756531,
+    "true_prob": 0.04423372074961662,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/C2LOP.gen!g/01687c9ecd12ed2bdc81f096c4a2724d.png"
+  },
+  {
+    "sample_idx": 464,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.8818590044975281,
+    "true_prob": 0.11733962595462799,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/00322584dfa42e97b1e74ec973904811.png"
+  },
+  {
+    "sample_idx": 786,
+    "true_label": "Swizzor.gen!I",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.8681970238685608,
+    "true_prob": 0.12151602655649185,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!I/0089a7e78f7f09ff6b6f9eaaee64a1f1.png"
+  },
+  {
+    "sample_idx": 346,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.8615079522132874,
+    "true_prob": 0.13333292305469513,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/076992c7b037869df161602977fef058.png"
+  },
+  {
+    "sample_idx": 761,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.8322063088417053,
+    "true_prob": 0.16528749465942383,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/040ed15b004551e006dc7d705627ce0a.png"
+  },
+  {
+    "sample_idx": 1318,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.8019121885299683,
+    "true_prob": 0.1394626647233963,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/089b7f45ad1e2e4093698930037f4b33.png"
+  },
+  {
+    "sample_idx": 214,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.7985022664070129,
+    "true_prob": 0.15447965264320374,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/05de6c98ee2a69b38d5d2f52498e1e7d.png"
+  },
+  {
+    "sample_idx": 866,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.7117128372192383,
+    "true_prob": 0.23992331326007843,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/033cf53536cb60052628e0d7abadd03e.png"
+  },
+  {
+    "sample_idx": 758,
+    "true_label": "C2LOP.gen!g",
+    "predicted_label": "Swizzor.gen!E",
+    "confidence": 0.6984359622001648,
+    "true_prob": 0.026234732940793037,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/C2LOP.gen!g/0312af51d4e0631cf7140918763d9258.png"
+  },
+  {
+    "sample_idx": 58,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.6671820282936096,
+    "true_prob": 0.32992127537727356,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/04e824a9480cc71d4503cefedc76b976.png"
+  },
+  {
+    "sample_idx": 980,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.6660643815994263,
+    "true_prob": 0.32819482684135437,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/039b9dbc179492599ccdb5d187f74f91.png"
+  },
+  {
+    "sample_idx": 401,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.6613031625747681,
+    "true_prob": 0.23315206170082092,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/00d4c38c9258d758b67368a11a441c76.png"
+  },
+  {
+    "sample_idx": 1218,
+    "true_label": "Swizzor.gen!E",
+    "predicted_label": "Swizzor.gen!I",
+    "confidence": 0.6533942222595215,
+    "true_prob": 0.3447050452232361,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!E/058ef3269c82533eb68dcf3786649b2e.png"
+  },
+  {
+    "sample_idx": 16,
+    "true_label": "C2LOP.gen!g",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.6491653323173523,
+    "true_prob": 0.29515817761421204,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/C2LOP.gen!g/008e25ee9a420a1d95c7e605e1fe49df.png"
+  },
+  {
+    "sample_idx": 64,
+    "true_label": "C2LOP.gen!g",
+    "predicted_label": "C2LOP.P",
+    "confidence": 0.6457260251045227,
+    "true_prob": 0.30229246616363525,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/C2LOP.gen!g/032b8556120d2a9eef4e79889a05e703.png"
+  },
+  {
+    "sample_idx": 1114,
+    "true_label": "Swizzor.gen!I",
+    "predicted_label": "Swizzor.gen!E",
+    "confidence": 0.6260271072387695,
+    "true_prob": 0.3264823853969574,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Swizzor.gen!I/01a2943ebe0a3f95470b69a7a9ae23ef.png"
+  }
+]

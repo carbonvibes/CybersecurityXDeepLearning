@@ -1,0 +1,43 @@
+# Malware Detection & Classification using Deep Learning
+# Requirements file for the project
+
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data Processing & Manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning Utilities
+scikit-learn>=1.3.0
+
+# Progress Bars & Logging
+tqdm>=4.65.0
+tensorboard>=2.13.0
+
+# Explainability
+grad-cam>=1.4.8
+
+# PE File Analysis (for static features)
+pefile>=2023.2.7
+
+# Jupyter & Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.0

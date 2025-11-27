@@ -1,0 +1,162 @@
+[
+  {
+    "sample_idx": 354,
+    "true_label": "Allaple.L",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9989320635795593,
+    "true_prob": 3.4610508009791374e-05,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Allaple.L/06c3e1cb99e0a94e73d2d7b57231ab3c.png"
+  },
+  {
+    "sample_idx": 567,
+    "true_label": "Allaple.L",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9960986375808716,
+    "true_prob": 0.0007223452557809651,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Allaple.L/0081d4f44726547a43f227d40b705a14.png"
+  },
+  {
+    "sample_idx": 352,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9952099919319153,
+    "true_prob": 0.0023549767211079597,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/00b13ff4b8439c260e20b34971de0c49.png"
+  },
+  {
+    "sample_idx": 648,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9950655102729797,
+    "true_prob": 0.002466397127136588,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/011933861c9a593f4e2cb2bc1a0afb82.png"
+  },
+  {
+    "sample_idx": 962,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9950305223464966,
+    "true_prob": 0.002468901453539729,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/078cc61469535b06488b9a6fb7aee69e.png"
+  },
+  {
+    "sample_idx": 449,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.994880199432373,
+    "true_prob": 0.0025917431339621544,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/0419641b72b314539b802f265ea4df15.png"
+  },
+  {
+    "sample_idx": 585,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9948663711547852,
+    "true_prob": 0.002562480280175805,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/00d25ed6e5c46d317853d20e128b5de5.png"
+  },
+  {
+    "sample_idx": 1287,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9948480129241943,
+    "true_prob": 0.002593694254755974,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/04b1eeaff6e7b29b64bf9308334bda3e.png"
+  },
+  {
+    "sample_idx": 1227,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9948325157165527,
+    "true_prob": 0.0026132946368306875,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/08b5688c86bea763df891e75cff703b2.png"
+  },
+  {
+    "sample_idx": 269,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9948063492774963,
+    "true_prob": 0.002617631806060672,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/0133079b976a0976beab52b3e615f1cf.png"
+  },
+  {
+    "sample_idx": 1138,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9947836995124817,
+    "true_prob": 0.0026246714405715466,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/0420d9286151bd4f149555affe526c5f.png"
+  },
+  {
+    "sample_idx": 759,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9947118759155273,
+    "true_prob": 0.00267547438852489,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/0067c8a38933234ab9ac15b3805c664b.png"
+  },
+  {
+    "sample_idx": 1007,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9947016835212708,
+    "true_prob": 0.002694695722311735,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/022b040895281e62ecb6674c50844832.png"
+  },
+  {
+    "sample_idx": 1316,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.994692862033844,
+    "true_prob": 0.002674040850251913,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/017affeca51de8914e57b555a1857c5d.png"
+  },
+  {
+    "sample_idx": 358,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946765899658203,
+    "true_prob": 0.0026868919376283884,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/01a9e7dd2a95ca6326f1558c5356601f.png"
+  },
+  {
+    "sample_idx": 1161,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946712851524353,
+    "true_prob": 0.0027034985832870007,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/03ffa53da4bfb027e24aff341950ba31.png"
+  },
+  {
+    "sample_idx": 1186,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946625828742981,
+    "true_prob": 0.002702130936086178,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/03be73ec9dcc730384550c6bbbc90097.png"
+  },
+  {
+    "sample_idx": 871,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946399331092834,
+    "true_prob": 0.0027214589063078165,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/08b2fe733fcd611c630694a14b03c077.png"
+  },
+  {
+    "sample_idx": 678,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946304559707642,
+    "true_prob": 0.002729402156546712,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/02f6740d7a5891e47cf3dff70bf57d54.png"
+  },
+  {
+    "sample_idx": 15,
+    "true_label": "Instantaccess",
+    "predicted_label": "Skintrim.N",
+    "confidence": 0.9946079254150391,
+    "true_prob": 0.0027437841054052114,
+    "image_path": "/workspaces/CybersecurityXDeepLearning/data/raw/malimg/Instantaccess/0355bc9201f94f87c1da3b98bea4bf3a.png"
+  }
+]
